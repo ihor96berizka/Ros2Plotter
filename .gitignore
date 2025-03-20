@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Auto generated files
+build/*
+*.*user
